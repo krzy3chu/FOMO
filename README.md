@@ -1,2 +1,2 @@
 # FOMO
-FOMO - Faster Objects More Objects
+FOMO - Faster Objects, More Objects
