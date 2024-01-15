@@ -1,3 +1,4 @@
 mlruns/
 .fomo_venv/
 *.onnx
+FOMO_model.txt
