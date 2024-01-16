@@ -1,3 +1,11 @@
-mlruns/
+# python virtual environment
 .fomo_venv/
+
+# exported models
 *.onnx
+
+# MlFlow stuff
+mlruns/
+mlartifacts/
+# directory with random number created automaticly by MlFlow
+399010269064744334/ 
