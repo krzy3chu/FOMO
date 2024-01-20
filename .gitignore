@@ -7,5 +7,5 @@
 # MlFlow stuff
 mlruns/
 mlartifacts/
-# directory with random number created automaticly by MlFlow
-399010269064744334/ 
+# directory with random number created automaticly by MlFlow, but gitignore uses glob instead of regex :(
+[0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/
