@@ -2,6 +2,7 @@
 .fomo_venv/
 
 # exported models
+models/
 *.onnx
 
 # MlFlow stuff
@@ -9,3 +10,4 @@ mlruns/
 mlartifacts/
 # directory with random number created automaticly by MlFlow
 399010269064744334/ 
+432993251029227221/
