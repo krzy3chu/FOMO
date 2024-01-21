@@ -1,11 +1,20 @@
 # python virtual environment
 .fomo_venv/
 
-# exported models
-*.onnx
+# checpointed models
+Checkpoints/
 
+<<<<<<< HEAD
 # MlFlow stuff
 mlruns/
 mlartifacts/
 # directory with random number created automaticly by MlFlow, but gitignore uses glob instead of regex :(
 [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]/
+=======
+# MLFlow logs
+MLFlow/
+
+# Exported models
+Models/
+*.onnx
+>>>>>>> apples
