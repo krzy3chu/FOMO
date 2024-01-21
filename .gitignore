@@ -6,3 +6,7 @@ Checkpoints/
 
 # MLFlow logs
 MLFlow/
+
+# Exported models
+Models/
+*.onnx
